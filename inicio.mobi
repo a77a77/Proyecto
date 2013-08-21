@@ -85,7 +85,7 @@
     <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="null"/>
     <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="null"/>
     <Property name="AccessibleContext.accessibleParent" type="javax.accessibility.Accessible" editor="org.netbeans.modules.form.RADVisualComponent$AccessibleParentEditor">
-      <ComponentRef name="null"/>
+      <ComponentRef name="default"/>
     </Property>
   </AccessibilityProperties>
   <AuxValues>
@@ -175,7 +175,7 @@
             </Property>
             <Property name="Form Action" type="int" value="0"/>
             <Property name="Link" type="com.genuitec.mobione.designer.comp.iphone.links.Link" editor="org.netbeans.modules.form.editors2.LinkEditor">
-              <Link urlPath=""/>
+              <Link urlPath="relfile:"/>
             </Property>
             <Property name="Link Transition" type="int" value="6"/>
             <Property name="keepAspectRatio" type="boolean" value="true"/>
@@ -190,7 +190,7 @@
             <Property name="Id" type="java.lang.String" value="text1"/>
             <Property name="Text" type="java.lang.String" value="S&#xed;guenos"/>
             <Property name="Font" type="java.awt.Font" editor="sun.beans.editors.FontEditor">
-              <SerializedValue value="-84,-19,0,5,115,114,0,13,106,97,118,97,46,97,119,116,46,70,111,110,116,-59,-95,53,-26,-52,-34,86,115,3,0,6,73,0,25,102,111,110,116,83,101,114,105,97,108,105,122,101,100,68,97,116,97,86,101,114,115,105,111,110,70,0,9,112,111,105,110,116,83,105,122,101,73,0,4,115,105,122,101,73,0,5,115,116,121,108,101,76,0,20,102,82,101,113,117,101,115,116,101,100,65,116,116,114,105,98,117,116,101,115,116,0,21,76,106,97,118,97,47,117,116,105,108,47,72,97,115,104,116,97,98,108,101,59,76,0,4,110,97,109,101,116,0,18,76,106,97,118,97,47,108,97,110,103,47,83,116,114,105,110,103,59,120,112,0,0,0,1,65,96,0,0,0,0,0,14,0,0,0,0,115,114,0,19,106,97,118,97,46,117,116,105,108,46,72,97,115,104,116,97,98,108,101,19,-69,15,37,33,74,-28,-72,3,0,2,70,0,10,108,111,97,100,70,97,99,116,111,114,73,0,9,116,104,114,101,115,104,111,108,100,120,112,63,64,0,0,0,0,0,8,119,8,0,0,0,11,0,0,0,3,116,0,36,115,117,110,46,102,111,110,116,46,97,116,116,114,105,98,117,116,101,118,97,108,117,101,115,46,100,101,102,105,110,101,100,95,107,101,121,115,114,0,17,106,97,118,97,46,108,97,110,103,46,73,110,116,101,103,101,114,18,-30,-96,-92,-9,-127,-121,56,2,0,1,73,0,5,118,97,108,117,101,120,114,0,16,106,97,118,97,46,108,97,110,103,46,78,117,109,98,101,114,-122,-84,-107,29,11,-108,-32,-117,2,0,0,120,112,0,64,0,127,115,114,0,27,106,97,118,97,46,97,119,116,46,102,111,110,116,46,84,101,120,116,65,116,116,114,105,98,117,116,101,107,120,-99,-116,13,-24,13,70,2,0,0,120,114,0,47,106,97,118,97,46,116,101,120,116,46,65,116,116,114,105,98,117,116,101,100,67,104,97,114,97,99,116,101,114,73,116,101,114,97,116,111,114,36,65,116,116,114,105,98,117,116,101,-127,30,116,38,-51,71,23,92,2,0,1,76,0,4,110,97,109,101,113,0,126,0,2,120,112,116,0,6,102,97,109,105,108,121,116,0,9,72,101,108,118,101,116,105,99,97,115,113,0,126,0,10,116,0,4,115,105,122,101,115,114,0,15,106,97,118,97,46,108,97,110,103,46,70,108,111,97,116,-38,-19,-55,-94,-37,60,-16,-20,2,0,1,70,0,5,118,97,108,117,101,120,113,0,126,0,8,65,96,0,0,120,113,0,126,0,14,120"/>
+              <SerializedValue value="-84,-19,0,5,115,114,0,13,106,97,118,97,46,97,119,116,46,70,111,110,116,-59,-95,53,-26,-52,-34,86,115,3,0,6,73,0,25,102,111,110,116,83,101,114,105,97,108,105,122,101,100,68,97,116,97,86,101,114,115,105,111,110,70,0,9,112,111,105,110,116,83,105,122,101,73,0,4,115,105,122,101,73,0,5,115,116,121,108,101,76,0,20,102,82,101,113,117,101,115,116,101,100,65,116,116,114,105,98,117,116,101,115,116,0,21,76,106,97,118,97,47,117,116,105,108,47,72,97,115,104,116,97,98,108,101,59,76,0,4,110,97,109,101,116,0,18,76,106,97,118,97,47,108,97,110,103,47,83,116,114,105,110,103,59,120,112,0,0,0,1,65,96,0,0,0,0,0,14,0,0,0,0,115,114,0,19,106,97,118,97,46,117,116,105,108,46,72,97,115,104,116,97,98,108,101,19,-69,15,37,33,74,-28,-72,3,0,2,70,0,10,108,111,97,100,70,97,99,116,111,114,73,0,9,116,104,114,101,115,104,111,108,100,120,112,63,64,0,0,0,0,0,8,119,8,0,0,0,11,0,0,0,3,116,0,36,115,117,110,46,102,111,110,116,46,97,116,116,114,105,98,117,116,101,118,97,108,117,101,115,46,100,101,102,105,110,101,100,95,107,101,121,115,114,0,17,106,97,118,97,46,108,97,110,103,46,73,110,116,101,103,101,114,18,-30,-96,-92,-9,-127,-121,56,2,0,1,73,0,5,118,97,108,117,101,120,114,0,16,106,97,118,97,46,108,97,110,103,46,78,117,109,98,101,114,-122,-84,-107,29,11,-108,-32,-117,2,0,0,120,112,0,64,0,127,115,114,0,27,106,97,118,97,46,97,119,116,46,102,111,110,116,46,84,101,120,116,65,116,116,114,105,98,117,116,101,107,120,-99,-116,13,-24,13,70,2,0,0,120,114,0,47,106,97,118,97,46,116,101,120,116,46,65,116,116,114,105,98,117,116,101,100,67,104,97,114,97,99,116,101,114,73,116,101,114,97,116,111,114,36,65,116,116,114,105,98,117,116,101,-127,30,116,38,-51,71,23,92,2,0,1,76,0,4,110,97,109,101,113,0,126,0,2,120,112,116,0,4,115,105,122,101,115,114,0,15,106,97,118,97,46,108,97,110,103,46,70,108,111,97,116,-38,-19,-55,-94,-37,60,-16,-20,2,0,1,70,0,5,118,97,108,117,101,120,113,0,126,0,8,65,96,0,0,115,113,0,126,0,10,116,0,6,102,97,109,105,108,121,116,0,9,72,101,108,118,101,116,105,99,97,120,113,0,126,0,18,120"/>
             </Property>
             <Property name="Text Color" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color alpha="ff" blue="ff" green="ff" red="ff" type="rgb"/>
@@ -212,12 +212,12 @@
             <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="S&#xed;guenos"/>
             <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="null"/>
             <Property name="AccessibleContext.accessibleParent" type="javax.accessibility.Accessible" editor="org.netbeans.modules.form.RADVisualComponent$AccessibleParentEditor">
-              <ComponentRef name="null"/>
+              <ComponentRef name="default"/>
             </Property>
           </AccessibilityProperties>
-          <actual-rect x="35" y="882" width="59" height="19"/>
+          <actual-rect x="34" y="882" width="59" height="19"/>
           <Constraints>
-            <AbsoluteConstraints CONSTRAINTS="N:35.0px:59.0px:100.0%|N:882.0px:19.0px:100.0%"/>
+            <AbsoluteConstraints CONSTRAINTS="N:34.0px:59.0px:100.0%|N:882.0px:19.0px:100.0%"/>
           </Constraints>
         </Component>
         <Container class="com.genuitec.mobione.designer.comp.iphone.ImageButton" name="image5">
@@ -245,18 +245,18 @@
               <Point value="[0, -1]"/>
             </Property>
             <Property name="On Click" type="com.genuitec.mobione.designer.comp.iphone.actions.IAction" editor="com.genuitec.mobione.designer.comp.iphone.actions.ActionEditor">
-              <action className="com.genuitec.mobione.designer.comp.iphone.actions.ShowUrlAction" link="http://www.linkedin.com/pub/h&#xe9;ctor-serrano-luna/47/824/919" openURLType="NEW_WINDOW" title="Load URL"/>
+              <action className="com.genuitec.mobione.designer.comp.iphone.actions.ShowUrlAction" link="http://www.linkedin.com/pub/h&#xe9;ctor-serrano-luna/47/824/919" openURLType="POPUP_WINDOW" title="Load URL"/>
             </Property>
             <Property name="Form Action" type="int" value="0"/>
             <Property name="Link" type="com.genuitec.mobione.designer.comp.iphone.links.Link" editor="org.netbeans.modules.form.editors2.LinkEditor">
-              <Link urlPath=""/>
+              <Link urlPath="relfile:"/>
             </Property>
             <Property name="Link Transition" type="int" value="6"/>
             <Property name="keepAspectRatio" type="boolean" value="true"/>
           </Properties>
-          <actual-rect x="223" y="915" width="65" height="64"/>
+          <actual-rect x="27" y="915" width="65" height="64"/>
           <Constraints>
-            <AbsoluteConstraints CONSTRAINTS="N:223.0px:65.0px:100.0%|N:915.0px:64.0px:100.0%"/>
+            <AbsoluteConstraints CONSTRAINTS="N:27.0px:65.0px:100.0%|N:915.0px:64.0px:100.0%"/>
           </Constraints>
         </Container>
         <Container class="com.genuitec.mobione.designer.comp.iphone.ImageButton" name="image4">
@@ -288,7 +288,7 @@
             </Property>
             <Property name="Form Action" type="int" value="0"/>
             <Property name="Link" type="com.genuitec.mobione.designer.comp.iphone.links.Link" editor="org.netbeans.modules.form.editors2.LinkEditor">
-              <Link urlPath=""/>
+              <Link urlPath="relfile:"/>
             </Property>
             <Property name="Link Transition" type="int" value="6"/>
             <Property name="keepAspectRatio" type="boolean" value="true"/>
@@ -327,7 +327,7 @@
             </Property>
             <Property name="Form Action" type="int" value="0"/>
             <Property name="Link" type="com.genuitec.mobione.designer.comp.iphone.links.Link" editor="org.netbeans.modules.form.editors2.LinkEditor">
-              <Link urlPath=""/>
+              <Link urlPath="relfile:"/>
             </Property>
             <Property name="Link Transition" type="int" value="6"/>
             <Property name="keepAspectRatio" type="boolean" value="true"/>
@@ -362,18 +362,18 @@
               <Point value="[0, -1]"/>
             </Property>
             <Property name="On Click" type="com.genuitec.mobione.designer.comp.iphone.actions.IAction" editor="com.genuitec.mobione.designer.comp.iphone.actions.ActionEditor">
-              <action className="com.genuitec.mobione.designer.comp.iphone.actions.ShowUrlAction" link="http://m.facebook.com/pages/Escolaris/283256055071532" openURLType="NEW_WINDOW" title="Load URL"/>
+              <action className="com.genuitec.mobione.designer.comp.iphone.actions.ShowUrlAction" link="http://m.facebook.com/pages/Escolaris/283256055071532" openURLType="POPUP_WINDOW" title="Load URL"/>
             </Property>
             <Property name="Form Action" type="int" value="0"/>
             <Property name="Link" type="com.genuitec.mobione.designer.comp.iphone.links.Link" editor="org.netbeans.modules.form.editors2.LinkEditor">
-              <Link urlPath=""/>
+              <Link urlPath="relfile:"/>
             </Property>
             <Property name="Link Transition" type="int" value="6"/>
             <Property name="keepAspectRatio" type="boolean" value="true"/>
           </Properties>
-          <actual-rect x="29" y="915" width="64" height="64"/>
+          <actual-rect x="223" y="915" width="64" height="64"/>
           <Constraints>
-            <AbsoluteConstraints CONSTRAINTS="N:29.0px:64.0px:100.0%|N:915.0px:64.0px:100.0%"/>
+            <AbsoluteConstraints CONSTRAINTS="N:223.0px:64.0px:100.0%|N:915.0px:64.0px:100.0%"/>
           </Constraints>
         </Container>
         <Container class="com.genuitec.mobione.designer.comp.iphone.Image" name="image1">

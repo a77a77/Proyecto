@@ -205,7 +205,7 @@ body{
 
 #m1-inicio-text1{
   height: 19px;
-  left: 35px;
+  left: 34px;
   line-height: 19px;
   text-align: left;
   top: 473px;
@@ -216,7 +216,7 @@ body{
   -webkit-border-image: url(images/linkedin.png) 1 1 1 1 stretch stretch;
   border-width: 1px 1px 1px 1px;
   height: 64px;
-  left: 223px;
+  left: 27px;
   line-height: 62px;
   top: 570px;
   width: 65px;
@@ -246,7 +246,7 @@ body{
   -webkit-border-image: url(images/facebook.png) 1 1 1 1 stretch stretch;
   border-width: 1px 1px 1px 1px;
   height: 64px;
-  left: 29px;
+  left: 223px;
   line-height: 62px;
   top: 762px;
   width: 64px;
